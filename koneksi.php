@@ -1,6 +1,6 @@
 <?php
 $dbserver = 'localhost';
-$dbname = 'tugaspweb_adinda';
+$dbname = 'kuliahdnd';
 $dbuser = 'root';
 $dbpassword = '';
 $dsn ="mysql:host={$dbserver};dbname={$dbname}";
